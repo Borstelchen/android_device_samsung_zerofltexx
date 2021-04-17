@@ -1,0 +1,5 @@
+# Radio
+lib/libsec-ril.so
+lib/libsec-ril-dsds.so
+lib64/libsec-ril.so
+lib64/libsec-ril-dsds.so
